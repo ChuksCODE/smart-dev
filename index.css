@@ -1,0 +1,45 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.top_header{
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    margin: 50px 30px 10px 30px;
+}
+
+.image{
+    display: block;
+    margin-left: 30px;
+     max-width: 300px;
+     padding-top: 40px;
+}
+
+#nav-list{
+    display: inline-block;
+    text-align: left;
+    margin: 1opx;
+    color: brown;
+}
+
+#na-list li{
+    display: inline-block;
+    list-style: none;
+}
+
+.para{
+    color: white;
+}
+
+#para1{
+    background-color: white;
+    color: black;
+    margin-left: 500px;
+    margin-top: 10px;
+    border-color: darkorange;
+    border-width: 10px;
+    border-style: ridge;
+}
